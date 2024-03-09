@@ -1,0 +1,23 @@
+.sidenav{    
+    width: 200px; 
+}
+
+.sidenav a {
+    color: #fff
+}
+
+.sidenav .nav-list a {
+    background-color: rgb(77, 77, 77);
+        color: rgb(1, 255, 1);
+}
+.sidenav .material-icons{
+    color: rgb(1, 255, 1);
+}
+
+.sidenav i {
+    padding-right: 1px;
+}
+
+.content{
+    padding: 16px;
+}
